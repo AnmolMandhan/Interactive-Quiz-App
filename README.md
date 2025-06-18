@@ -48,6 +48,10 @@ No frameworks or dependencies required — just a browser!
 
 ## Option 2: Use VS Code Live Server or drag into a browser
 
+
+## Live Demo Of Project
+https://quiz-hxyxjaik8-anmols-projects-d8ab2d65.vercel.app/
+
 ## 💼 Author
 ## 👤 Anmol Mandhan
 ## 💻 Django | Python | Frontend Developer |  AI/ML
